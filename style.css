@@ -1,0 +1,19 @@
+/*
+Theme Name: WP Theme Dev
+Theme URI: https://github.com/mohole/wpdesign
+Author: Aurora Carrà
+Author URI: https://scuola.mohole.it/
+Description: My first WordPress Theme
+Version: 1.0.0
+License: GPL Version 3, 29 June 2007
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: wpthemedev
+*/
+
+/* include your preferred reset.css here */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
